@@ -6,7 +6,7 @@
   <link href="https://f3ath3r.github.io/atom.xml" rel="self"/>
   
   <link href="https://f3ath3r.github.io/"/>
-  <updated>2022-04-15T06:59:47.510Z</updated>
+  <updated>2022-10-10T07:39:27.830Z</updated>
   <id>https://f3ath3r.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PS笔记</title>
+    <link href="https://f3ath3r.github.io/2022/10/10/PS%E7%AC%94%E8%AE%B0/"/>
+    <id>https://f3ath3r.github.io/2022/10/10/PS%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-10-10T07:39:00.000Z</published>
+    <updated>2022-10-10T07:39:27.830Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1、照片换底色"><a href="#1、照片换底色" class="headerlink" title="1、照片换底色"></a>1、照片换底色</h1><h2 id="其他颜色换白色"><a href="#其他颜色换白色" class="headerlink" title="其他颜色换白色"></a>其他颜色换白色</h2><p>色相&#x2F;透明度</p><h2 id="其他互换"><a href="#其他互换" class="headerlink" title="其他互换"></a>其他互换</h2><p>魔棒选择——调整边缘——填充背景色——新建上层蒙版，画笔工具，涂抹边缘，注意透明度</p><p>边缘粗糙，选中主题图层的蒙版，用黑色画笔涂抹，注意透明度</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1、照片换底色&quot;&gt;&lt;a href=&quot;#1、照片换底色&quot; class=&quot;headerlink&quot; title=&quot;1、照片换底色&quot;&gt;&lt;/a&gt;1、照片换底色&lt;/h1&gt;&lt;h2 id=&quot;其他颜色换白色&quot;&gt;&lt;a href=&quot;#其他颜色换白色&quot; class=&quot;headerlink</summary>
+      
+    
+    
+    
+    
+    <category term="PS" scheme="https://f3ath3r.github.io/tags/PS/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
